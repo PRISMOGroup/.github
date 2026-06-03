@@ -7,15 +7,13 @@ Repo: https://github.com/PRISMOGroup/PRISMOall
 ## Project TETRIS: 
 https://github.com/orgs/PRISMOGroup/teams/tetris/members
 --------------------------------------------------------
-Repo codici:
-
-Repo data:
+Lista dati:
 
 
 ## Project Hi-ROC:
-Repo codici:
-
-Repo data:
+Lista dati:
 
 ## Tesi
-Repo:
+- Tesi a
+- Tesi b
+- ... (link diretti)
