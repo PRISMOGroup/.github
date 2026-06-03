@@ -6,7 +6,7 @@ Roadmap di tutti i codici/dati disponibili del gruppo
 https://github.com/PRISMOGroup/PRISMOall
 
 ## Project TETRIS: 
-https://github.com/orgs/PRISMOGroup/teams/tetris/members
+https://github.com/orgs/PRISMOGroup/teams/tetris
 --------------------------------------------------------
 Lista dati:
 
