@@ -1,2 +1,2 @@
-# .github
+# PRISMO
 PRISMo Group 
