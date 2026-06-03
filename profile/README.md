@@ -12,7 +12,10 @@ https://github.com/orgs/PRISMOGroup/teams/tetris
 Lista dati:
 
 
-## Project Hi-ROC: https://github.com/orgs/PRISMOGroup/teams/hiroc
+## Project Hi-ROC: 
+https://github.com/orgs/PRISMOGroup/teams/hiroc
+
+
 Lista dati:
 
 ## Tesi
