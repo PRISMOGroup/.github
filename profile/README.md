@@ -1,9 +1,14 @@
 # PRISMo-Code
 Roadmap di tutti i codici/dati disponibili del gruppo
 
-| Nome | Descrizione | Link | Stato |
-|---|---|---|---|
-| ... | ... | ... | ... |
+| Nome | Librerie | Linguaggio | Metodo | Stato | Maintainers |
+|Trasporto ossigeno 3D-1D | Getfem |C++| Elementi finiti |Consolidato| Luca Possenti, Alessandro Coclite, Piermario Vitullo|
+|Farmacodinamica 3D-1D| Getfem |C++| Elementi finiti |Consolidato| Alessandro Coclite, Luca Possenti, Piermario Vitullo|
+|Trasporto di massa 3D-1D| Getfem|C++| Elementi finiti |Consolidato| Luca Possenti, Alessandro Coclite, Piermario Vitullo|
+|Radioterapia frazionata 3D-1D| Getfem|C++| Elementi finiti |Consolidato| Luca Possenti, Andrea Gallo|
+|ROM trasporto ossigeno 3D-1D|PyTorch,dlroms| Python | DL-based |Consolidato| Piermario Vitullo|
+|Modello dinamica cellule tumorali 3D-1D|FEniCs,PyTorch| Python | Elementi finiti, DL-based |In sviluppo| Cristina Macaluso, Piermario Vitullo, Nunzio Dimola|
+
 
 ## Sito internet:
 
