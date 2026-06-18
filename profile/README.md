@@ -16,7 +16,7 @@ Roadmap di tutti i codici/dati disponibili del gruppo
 | Causal-probabilistic digital twin | PGMtwin, pgmpy | Python | Causal inference, Bayesian Networks | In sviluppo | Francesca Arceci, Piermario Vitullo, Marco Tezzele | N|
 | Probabilistic Graphical Models for DT | PGMtwin, pgmpy | Python |  Bayesian Networks | In sviluppo | Francesca Arceci, Piermario Vitullo, Marco Tezzele| N|
 | Random Walk with Restart | in-house | R | RWR | Consolidato | Francesca Arceci, Aurora Vido |N|
-| Sintesi vascolare patient-based | in-house | MATLAB | Voronoi 2D | Consolidato | Cristina Macaluso, Luca Possenti, Piermario Vitullo | Y|
+| Sintesi vascolare patient-based | in-house | MATLAB | Voronoi 2D | Consolidato | Cristina Macaluso, Luca Possenti, Sophie Materne, Francesca Arceci, Piermario Vitullo | Y|
 | Sintesi vascolare anatomica | in-house | MATLAB | CCO | Consolidato | Andreas Linninger, Francesca Behrens, Piermario Vitullo |N|
 | Sintesi vascolare parametrica v1 | in-house | MATLAB | Voronoi 2D | Consolidato | Piermario Vitullo |N|
 | Sintesi vascolare parametrica v2 | FEniCs | Python | Voronoi 3D, Dijkstra | Consolidato | Nunzio Dimola |N|
