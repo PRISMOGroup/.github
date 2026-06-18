@@ -13,8 +13,8 @@ Roadmap di tutti i codici/dati disponibili del gruppo
 | Graph Neural Networks - Pulsatile | PyTorch | Python | DL-based | In sviluppo | Francesca Behrens, Paolo Botta |
 | DD-ROM multiscala | FEniCs, PyTorch | Python | Elementi finit, DL-based | In sviluppo | Nunzio Dimola, Piermario Vitullo |
 | Modello dinamica cellule tumorali 3D-1D | FEniCS, PyTorch | Python | Elementi finiti, DL-based | In sviluppo | Cristina Macaluso, Nunzio Dimola, Piermario Vitullo |
-| Causal-probabilistic digital twin | PGMtwin, pgmpy | Python | In sviluppo | Francesca Arceci, Piermario Vitullo, Marco Tezzele |
-| Probabilistic Graphical Models for DT | PGMtwin, pgmpy | Python | In sviluppo | Francesca Arceci, Piermario Vitullo, Marco Tezzele |
+| Causal-probabilistic digital twin | PGMtwin, pgmpy | Python | Causal inference, Bayesian Networks | In sviluppo | Francesca Arceci, Piermario Vitullo, Marco Tezzele |
+| Probabilistic Graphical Models for DT | PGMtwin, pgmpy | Python |  Bayesian Networks | In sviluppo | Francesca Arceci, Piermario Vitullo, Marco Tezzele |
 | Random Walk with Restart | in-house | R | RWR | Consolidato | Francesca Arceci, Aurora Vido |
 | Sintesi vascolare patient-based | in-house | MATLAB | Voronoi 2D | Consolidato | Cristina Macaluso, Luca Possenti, Piermario Vitullo |
 | Sintesi vascolare anatomica | in-house | MATLAB | CCO | Consolidato | Andreas Linninger, Francesca Behrens, Piermario Vitullo |
