@@ -7,6 +7,7 @@ Roadmap di tutti i codici/dati disponibili del gruppo
 | Farmacodinamica 3D-1D | GetFEM | C++ | Elementi finiti | Consolidato | Alessandro Coclite, Luca Possenti, Piermario Vitullo | N|
 | Trasporto di massa 3D-1D | GetFEM | C++ | Elementi finiti | Consolidato | Luca Possenti, Alessandro Coclite, Piermario Vitullo | N|
 | Radioterapia frazionata 3D-1D | GetFEM | C++ | Elementi finiti | Consolidato | Luca Possenti, Andrea Gallo | N|
+| ROM problemi ellittici | PyTorch | Python | DL-based | Consolidato | Piermario Vitullo | N|
 | ROM trasporto ossigeno 3D-1D | PyTorch | Python | DL-based | Consolidato | Piermario Vitullo | N|
 | DL-Multifidelity UQ| PyTorch | Python | DL-based | Consolidato | Piermario Vitullo | N|
 | Graph Neural Networks - Steady | PyTorch | Python | DL-based | Consolidato | Paolo Botta, Piermario Vitullo | Y|
